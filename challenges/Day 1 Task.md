@@ -1,4 +1,4 @@
-# Day 1 – Get Your Starter Voice Agent Running
+## Day 1 – Get Your Starter Voice Agent Running
 
 For Day 1, your objective is to:
 
